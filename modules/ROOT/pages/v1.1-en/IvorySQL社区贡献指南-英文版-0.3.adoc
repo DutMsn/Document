@@ -1,11 +1,11 @@
 :toc:
 :toc: marco
 :toc: left
-:toc-title: 目录
+:toc-title: Contents
 :sectnums:
 :sectnumlevels: 5
 :toclevels: 5
-
+:imagesdir: ./_images
 = **IvorySQL Community Contribution Guide**
 
 == **Summary**
@@ -125,7 +125,7 @@ On occasion, you will see core team members committing directly to the repositor
 
 2 Click New issue
 
-image::https://github.com/DutMsn/Document/blob/main/p3.png
+image::p3.png[]
 
 ==== Second:Select the issue type
 
