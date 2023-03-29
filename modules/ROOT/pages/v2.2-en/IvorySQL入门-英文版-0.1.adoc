@@ -1,11 +1,11 @@
 :toc:
 :toc: marco
 :toc: left
-:toc-title: 目录
+:toc-title: Contents
 :sectnums:
 :sectnumlevels: 5
 :toclevels: 5
-
+:imagesdir: ./_images
 == Getting Started with IvorySQL
 
 === getting started guide
@@ -129,12 +129,13 @@ ivorysql=#
 
 DBeaver is a powerful open source tool. The connection configuration is as follows:
 
+image::p1.png[]
 
 ===== HIGHGO developer connection
 
 HIGHGO developer is a tool independently developed by HIGHGO. In addition to supporting HIGHGO database, it also supports PostgreSQL and IvorySQL databases. The connection configuration is as follows:
 
-
+image::p2.png[]
 
 > If you want to use this tool, please follow the official account to join the WeChat group "IvorySQL China Technology Exchange Group" for consultation.
 
